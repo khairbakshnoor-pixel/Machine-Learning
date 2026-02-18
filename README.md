@@ -1,2 +1,3 @@
 # Machine-Learning
-getiing in ml
+MODELS
+LINEAR REGRESSION
